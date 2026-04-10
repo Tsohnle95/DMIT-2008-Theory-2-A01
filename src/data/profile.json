@@ -1,44 +1,44 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Ty Sohnle - Fullstack Developer",
+    "description": "I'm a developer based in Canada, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "Ty Sohnle"
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
+    "personName": "Ty",
+    "jobTitle": "Fullstack Developer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
+    "location": "Canada",
     "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "nationality": "Canadian",
+    "publisherName": "Ty",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/ty-sohnle/",
+      "https://github.com/Tsohnle95"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Ty Sohnle",
+    "summary": "a Webdeveloper with strong focus on the user experience, animations and micro interactions",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Tsohnle95"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/ty-sohnle/"
       },
       {
         "ariaLabel": "dribble profile",
@@ -54,12 +54,12 @@
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "memoji of Ty"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Ty, a Fullstack developer from Canada.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
@@ -75,21 +75,21 @@
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "contact@tysohnle.dev",
+    "location": "Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/ty-sohnle/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Tsohnle95"
       },
       {
         "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "url": "https://discordapp.com/users/"
       }
     ]
   },
